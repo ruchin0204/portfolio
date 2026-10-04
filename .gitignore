@@ -1,0 +1,5 @@
+# Dependencies
+node_modules/
+
+# Build outputs (analytics script is generated from source)
+# Keeping dist/analytics.js committed for deployment simplicity
